@@ -1,5 +1,5 @@
- - name: Dependency Review
-      uses: actions/dependency-review-action@v4
+- name: Dependency Review
+  uses: actions/dependency-review-action@v4.8.2
       with:
        # ([String]). Representing a path to a configuration file local to the repository or in an external repository.
        # Possible values: An absolute path to a local file or an external file.
